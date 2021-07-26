@@ -1,0 +1,19 @@
+#端口号和微服务的名称以及zookeeper的IP地址和端口号
+server:
+  port: 8003
+
+#spring:
+#  application:
+#    name: springcloud-providerzk-payment8003
+#  cloud:
+#    zookeeper:
+#      connect-string: 127.0.0.1:2182
+
+
+#服务别名----注册zookeeper到注册中心名称
+spring:
+  application:
+    name: cloud-provider-payment
+  cloud:
+    zookeeper:
+      connect-string: 127.0.0.1:2181

@@ -1,0 +1,16 @@
+# Project exclude paths
+/ch00-springcloud-publicProject/target/
+/ch01-springcloud-provider-payment8001/target/
+/ch01-springcloud-provider-payment8002/target/
+/ch02-springcloud-consumer-order80/target/
+/ch03-springcloud-eureka-server-7001/target/
+/ch04-springcloud-eureka-server7002/target/
+/ch05-springcloud-consumerzk-order80/target/
+/ch05-springcloud-providerzk-payment8003/target/
+/ch06-springcloud-consumerconsul-order80/target/
+/ch06-springcloud-providerconsul-payment8004/target/
+/ch07-springcloud-consumeropenfeign-order80/target/
+/ch08-springcloud-hystrix-dashboard9001/target/
+/ch08-springcloud-hystrix-feign-order80/target/
+/ch08-springcloud-hystrix-feign-payment8005/target/
+/ch09-springcloud-gateway-gateway9527/target/
